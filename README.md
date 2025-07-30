@@ -12,3 +12,4 @@ Each file contains:
 - `Coordinates`: Latitude & Longitude of locations
 - `Time_Matrix`: Baseline travel time multipliers
 - `T`, `I`, `F`: Neutrosophic matrices
+- Traffic_Segments: Traffic-Prone Segments
